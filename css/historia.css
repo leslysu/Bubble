@@ -1,0 +1,25 @@
+body{
+    background: url(https://media.istockphoto.com/id/1177450328/vector/seamless-pattern-bubble-tea.jpg?s=612x612&w=0&k=20&c=cdFKF4QlRO7BS2l6jnJNKM0pA2U26bsciII1QwWIL0M=);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+.direc{
+   
+    text-align: center;
+    min-height: 100hv;
+}
+.image{
+    float: left;
+}
+.imag{
+    box-shadow: 10px 10px rgb(101, 11, 129);
+
+}
+.text-center{
+    background-color: rgb(249, 203, 255) ;
+}
+.imagen{
+    display: flex;
+    justify-content: center;  
+}

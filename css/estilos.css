@@ -13,12 +13,11 @@
 .navbar-toggler{
     height: 200px;
 }
-.container-fluid{
-    height: 70px;
-}
+
 .imagen{
     display: flex;
     justify-content: center;  
+
     
 }
 .imag{
@@ -36,7 +35,8 @@
 }
 body{
     background: url(https://png.pngtree.com/thumb_back/fw800/background/20220823/pngtree-boba-tea-refreshingly-milky-beverage-with-tapioca-pearls-in-a-plastic-cup-photo-image_38752606.jpg);
-    margin: 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 
 }
 .su{
@@ -61,4 +61,7 @@ body{
     background-color: rgb(213, 190, 243);
     text-align: center;
   }
-  
+
+  .navcolor{
+    background-color: antiquewhite;
+  }

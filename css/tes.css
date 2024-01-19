@@ -1,0 +1,30 @@
+body{
+    
+    background: url(https://static.wixstatic.com/media/3cb1d0_1df9f2fa75604a688c9b79ce07893a74~mv2.jpg/v1/fill/w_1920,h_1080,al_c/3cb1d0_1df9f2fa75604a688c9b79ce07893a74~mv2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.direc{
+   
+    text-align: center;
+    min-height: 100hv;
+}
+.image{
+    float: left;
+}
+.imag{
+    box-shadow: 10px 10px rgb(101, 11, 129);
+
+}
+.text-center{
+    background-color: rgb(255, 254, 252);
+}
+.imagen{
+    display: flex;
+    justify-content: center;  
+}
+h2{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+}
