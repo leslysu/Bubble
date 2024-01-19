@@ -28,3 +28,11 @@ h2{
     font-weight: bold;
     text-decoration: underline;
 }
+
+.formulario{
+text-align: center;
+}
+
+*{
+    margin: 0px;
+}
